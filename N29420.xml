@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:039176_0000_10141C01D506FAF8"/>
-            <pb facs="tcp:039176_0001_10141C04D7E09450" rendition="simple:additions"/>
+            <pb facs="unknown:039176_0000_10141C01D506FAF8"/>
+            <pb facs="unknown:039176_0001_10141C04D7E09450"
+                rendition="simple:additions"/>
             <head>At A GENERAL COURT Held at Boſton, in the Year <gap reason="blank" extent="1 word">
                   <desc> _____ </desc>
                </gap>
